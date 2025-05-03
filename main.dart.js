@@ -9245,13 +9245,14 @@ _.e=a
 _.f=b
 _.a=c
 _.b=d},
-um:function um(a,b,c,d,e,f){var _=this
+um:function um(a,b,c,d,e,f,g){var _=this
 _.c=a
 _.f=b
-_.ax=c
-_.fx=d
-_.go=e
-_.a=f},
+_.as=c
+_.ax=d
+_.fx=e
+_.go=f
+_.a=g},
 T6:function T6(a,b){this.a=a
 this.b=b},
 zO:function zO(){var _=this
@@ -36301,10 +36302,10 @@ k=J.SN(p[s],m)}}return k},
 aA(){var s,r
 this.aP()
 for(s=this.Q,r=0;r<3;++r)s.push(new A.lF(B.he,$.ah()))},
-M(a){var s=this,r=null,q=4294572020,p=4280562510,o=A.azd(r,r,new A.up("assets/images/Citeora(banner).png",r,r)),n=A.aK(q),m=t.E,l=A.b([A.akf(A.fe("GitHub",r,r,r,A.fg(r,r,A.aK(p),r,r,r,r,r,r,r,r,r,r,r,B.bF,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.adE(s),r)],m),k=A.aK(q),j=A.fe("Pembuat Daftar Pustaka Otomatis",r,r,r,A.fg(r,r,A.aK(p),r,r,r,r,r,r,r,r,34,r,r,B.bF,r,r,!0,r,r,r,r,r,r,r,r),r,r),i=A.fe("Pilih gaya penulisan, masukkan data, dan salin daftar pustaka dalam hitungan detik.",r,r,r,A.fg(r,r,A.aK(p),r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),h=A.aiQ(B.fK,1),g=A.p7(new A.av(10,10)),f=A.b([new A.b_(1,B.D,B.fK.SH(),new A.h(0,2),5)],t.V),e=s.acM(),d=s.r!==""?s.aiD():A.iY(r,r,B.y,r,r,r,r,r,r)
+M(a){var s=this,r=null,q=4294505968,p=4280562510,o=A.azd(r,r,new A.up("assets/images/Citeora(banner).png",r,r)),n=A.aK(q),m=t.E,l=A.b([A.akf(A.fe("GitHub",r,r,r,A.fg(r,r,A.aK(p),r,r,r,r,r,r,r,r,r,r,r,B.bF,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.adE(s),r)],m),k=A.aK(q),j=A.fe("Pembuat Daftar Pustaka Otomatis",r,r,r,A.fg(r,r,A.aK(p),r,r,r,r,r,r,r,r,34,r,r,B.bF,r,r,!0,r,r,r,r,r,r,r,r),r,r),i=A.fe("Pilih gaya penulisan, masukkan data, dan salin daftar pustaka dalam hitungan detik.",r,r,r,A.fg(r,r,A.aK(p),r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),h=A.aiQ(B.fK,1),g=A.p7(new A.av(10,10)),f=A.b([new A.b_(1,B.D,B.fK.SH(),new A.h(0,2),5)],t.V),e=s.acM(),d=s.r!==""?s.aiD():A.iY(r,r,B.y,r,r,r,r,r,r)
 h=A.iY(r,new A.bV(new A.aj(10,10,10,10),A.v0(A.b([e,d,s.r===s.f[0]?s.aiF():A.iY(r,r,B.y,r,r,r,r,r,r)],m),B.au,B.aX,B.cq),r),B.y,r,new A.dl(B.k,r,h,g,f,r,r,B.aJ),r,r,r,r)
 g=s.r!==""?s.aiE(a):A.iY(r,r,B.y,r,r,r,r,r,r)
-return new A.yb(new A.um(new A.w9(o,40,B.yO,B.eD,r),l,n,new A.Om(r,r,1/0,56),1024,r),new A.J5(A.mE(new A.ev(new A.a6(200,800,0,1/0),A.v0(A.b([new A.bV(new A.aj(10,10,10,10),j,r),new A.bV(new A.aj(10,10,10,10),i,r),h,g],m),B.au,B.rk,B.cq),r),r,r),r),k,r)},
+return new A.yb(new A.um(new A.w9(o,40,B.yO,B.eD,r),l,B.F,n,new A.Om(r,r,1/0,56),1024,r),new A.J5(A.mE(new A.ev(new A.a6(200,800,0,1/0),A.v0(A.b([new A.bV(new A.aj(10,10,10,10),j,r),new A.bV(new A.aj(10,10,10,10),i,r),h,g],m),B.au,B.rk,B.cq),r),r,r),r),k,r)},
 acM(){var s=null,r=this.f,q=A.Z(r).i("ae<1,i4<C>>")
 q=A.a3(new A.ae(r,new A.adG(),q),!0,q.i("aE.E"))
 return new A.bV(new A.aj(10,10,10,10),A.awy(B.ae,A.Gw(s,new A.eK(4,A.h5(10),new A.aV(B.l,1,B.v,-1)),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Pilih Gaya Penulisan",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),q,new A.adH(this),t.N),s)},
@@ -41033,11 +41034,8 @@ a7=new A.ix(a9,a9,a9,a9,B.F,a6.f,a6.r,a6.w)
 a8.a.toString
 s=b2.e
 if(s==null)s=b3.gcn()
-a8.a.toString
-r=b2.f
-if(r==null){r=b0.ax
-p=r.N
-r=p==null?r.b:p}p=b2.r
+r=a8.a.as
+p=b2.r
 if(p==null)p=b3.r
 return A.c8(a9,new A.uj(a7,A.nu(B.a3,a9,A.c8(a9,new A.ed(B.yl,a9,a9,a5,a9),!1,a9,a9,!0,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9),B.y,k,g,a9,s,p,r,a9,B.cY),a9,t.ph),!0,a9,a9,!1,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9)}}
 A.a9E.prototype={
